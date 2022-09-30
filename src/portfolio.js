@@ -26,7 +26,7 @@ const greeting = {
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
     "https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf",
-  portfolio_repository: "https://hilldba/hilldba.github.io",
+  portfolio_repository: "https://github.com/hilldba/hilldba.github.io",
   githubProfile: "https://github.com/hilldba",
 };
 
